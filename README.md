@@ -10,10 +10,10 @@ MBTI 성격 유형을 참고해 2030 취향의 ASMR 사운드를 추천하는 �
 
 ## 실행
 
-Maven이 설치된 환경에서 실행합니다.
+Gradle이 설치된 환경에서 실행합니다.
 
 ```bash
-mvn spring-boot:run
+gradle bootRun
 ```
 
 실행 후 `http://localhost:8080`으로 접속합니다.
