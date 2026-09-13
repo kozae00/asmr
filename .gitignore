@@ -1,1 +1,9 @@
+.gradle/
+build/
+target/
+out/
+.idea/workspace.xml
+*.iml
+*.class
+*.log
 .idea

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">왁꾸볼 팝핑 젤리</title>
+  <desc id="desc">컬러풀한 젤리볼과 팝핑 사운드를 표현한 이미지</desc>
+  <rect width="640" height="640" rx="48" fill="#f3fff9"/>
+  <circle cx="184" cy="168" r="72" fill="#ff7f6e"/>
+  <circle cx="446" cy="174" r="92" fill="#ffd866"/>
+  <circle cx="284" cy="364" r="152" fill="#56c6a9"/>
+  <circle cx="366" cy="374" r="128" fill="#9f6bff" opacity=".82"/>
+  <circle cx="226" cy="324" r="44" fill="#fff" opacity=".62"/>
+  <circle cx="416" cy="324" r="34" fill="#fff" opacity=".72"/>
+  <path d="M148 488c84 54 256 58 344-2" fill="none" stroke="#17212b" stroke-width="26" stroke-linecap="round"/>
+  <path d="M114 302h68M458 286h72M106 386h46M496 410h50" stroke="#17212b" stroke-width="18" stroke-linecap="round"/>
+</svg>

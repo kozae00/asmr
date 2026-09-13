@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>추천 ASMR 결과</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="page result-page">
+  <header class="topbar">
+    <a class="brand" href="/">ASMR Type</a>
+    <a class="small-link" href="/questions.html">다시 테스트</a>
+  </header>
+
+  <main class="result-shell">
+    <section class="result-hero" id="resultHero">
+      <div class="result-copy">
+        <p class="eyebrow" id="resultType">ENFP</p>
+        <h1 id="resultTitle">왁꾸볼 팝핑 젤리 ASMR</h1>
+        <p id="resultTagline" class="result-tagline">톡톡 터지는 젤리감으로 기분을 환하게 깨우는 타입</p>
+        <p id="resultDescription" class="result-description"></p>
+        <div class="player">
+          <button id="playButton" class="play-button" type="button" aria-label="추천 ASMR 재생">
+            <span class="play-icon"></span>
+          </button>
+          <div>
+            <strong id="soundName">왁꾸볼 팝핑 젤리</strong>
+            <p id="playerStatus">음원 파일을 연결하면 이 버튼으로 재생됩니다.</p>
+          </div>
+          <audio id="audioPlayer" preload="none"></audio>
+        </div>
+      </div>
+      <figure class="result-image-frame">
+        <img id="resultImage" src="/images/wakku-ball.svg" alt="추천 ASMR 대표 이미지">
+      </figure>
+    </section>
+
+    <section class="share-panel">
+      <button id="shareButton" class="button primary" type="button">공유하기</button>
+      <a class="button ghost" href="/questions.html">다른 결과 보기</a>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="/js/app.js"></script>
+</body>
+</html>

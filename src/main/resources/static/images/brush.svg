@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">브러시 사운드</title>
+  <desc id="desc">부드러운 브러시와 젤리 사운드를 표현한 이미지</desc>
+  <rect width="640" height="640" rx="48" fill="#fffaf0"/>
+  <path d="M162 384c44-118 172-164 292-104l-60 130c-74-42-156-22-202 40l-30-66z" fill="#ffd866"/>
+  <path d="M414 156l78 36-94 204-78-36 94-204z" fill="#17212b"/>
+  <path d="M456 178l34 16" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="202" cy="224" r="58" fill="#ff7f6e" opacity=".86"/>
+  <circle cx="164" cy="286" r="30" fill="#56c6a9"/>
+  <circle cx="274" cy="196" r="24" fill="#9f6bff"/>
+</svg>

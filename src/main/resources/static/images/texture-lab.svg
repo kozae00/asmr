@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">텍스처 실험</title>
+  <desc id="desc">여러 질감을 섞은 실험형 ASMR 이미지</desc>
+  <rect width="640" height="640" rx="48" fill="#f5f4ff"/>
+  <path d="M174 170h292v332H174z" fill="#fff" stroke="#17212b" stroke-width="18"/>
+  <circle cx="248" cy="276" r="66" fill="#56c6a9"/>
+  <rect x="338" y="220" width="82" height="116" rx="22" fill="#ff7f6e"/>
+  <path d="M226 418c42-54 136-54 188 0" fill="none" stroke="#9f6bff" stroke-width="36" stroke-linecap="round"/>
+  <path d="M196 142l-34-48M444 142l34-48M320 124V74" stroke="#17212b" stroke-width="18" stroke-linecap="round"/>
+</svg>

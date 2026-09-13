@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">말랑 젤리 캔디</title>
+  <desc id="desc">투명하고 말랑한 젤리 캔디를 표현한 이미지</desc>
+  <rect width="640" height="640" rx="48" fill="#fff7f3"/>
+  <path d="M150 236c28-104 236-132 330-48 104 92 26 286-128 318-158 34-244-100-202-270z" fill="#ff8cb5"/>
+  <path d="M210 178c96-48 224-18 280 66 44 66 22 162-38 218" fill="none" stroke="#ffd866" stroke-width="54" stroke-linecap="round" opacity=".78"/>
+  <path d="M204 276c28-56 90-82 150-72" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round" opacity=".76"/>
+  <circle cx="214" cy="436" r="26" fill="#fff" opacity=".72"/>
+  <circle cx="448" cy="272" r="18" fill="#fff" opacity=".72"/>
+</svg>

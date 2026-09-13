@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">사각사각 컷팅</title>
+  <desc id="desc">정돈된 컷팅 사운드를 표현한 이미지</desc>
+  <rect width="640" height="640" rx="48" fill="#f7fbf4"/>
+  <rect x="126" y="226" width="318" height="258" rx="34" fill="#56c6a9"/>
+  <rect x="176" y="178" width="318" height="258" rx="34" fill="#ffd866"/>
+  <path d="M176 278h318M176 348h318M250 178v258M324 178v258M398 178v258" stroke="#17212b" stroke-width="16" opacity=".72"/>
+  <path d="M448 130l56 34-88 158-56-34 88-158z" fill="#ff7f6e"/>
+  <path d="M486 148l18 16" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+</svg>

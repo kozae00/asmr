@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ASMR 성향 테스트</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="page quiz-page">
+  <header class="topbar">
+    <a class="brand" href="/">ASMR Type</a>
+    <div class="progress-label"><span id="answeredCount">0</span>/10</div>
+  </header>
+
+  <main class="quiz-shell">
+    <section class="quiz-intro">
+      <p class="eyebrow">10 questions</p>
+      <h1>오늘 끌리는 소리 취향을 골라주세요.</h1>
+      <p>정답은 없고, 가장 마음이 편해지는 선택지를 누르면 됩니다.</p>
+    </section>
+
+    <form id="quizForm" class="question-list" novalidate></form>
+
+    <section class="submit-panel" aria-live="polite">
+      <div>
+        <strong id="submitTitle">아직 10문항이 남았어요.</strong>
+        <p id="submitHint">모든 문항을 선택하면 결과 버튼이 활성화됩니다.</p>
+      </div>
+      <button id="resultButton" class="button primary" type="submit" form="quizForm" disabled>결과 보기</button>
+    </section>
+  </main>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

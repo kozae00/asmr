@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">몽글 슬라임</title>
+  <desc id="desc">부드럽게 늘어지는 투명 슬라임 이미지</desc>
+  <rect width="640" height="640" rx="48" fill="#eef8ff"/>
+  <path d="M128 342c0-116 88-196 200-196 116 0 196 74 196 170 0 64-34 104-86 122-42 14-44 46-72 62-42 24-82-14-118 2-66 28-120-58-120-160z" fill="#78b7ff"/>
+  <path d="M178 342c0-78 58-132 140-132 66 0 124 38 142 94" fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" opacity=".72"/>
+  <path d="M190 472c34 28 84 30 132 16" fill="none" stroke="#56c6a9" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="404" cy="400" r="30" fill="#fff" opacity=".72"/>
+</svg>
